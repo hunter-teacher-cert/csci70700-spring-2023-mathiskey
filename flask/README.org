@@ -3,9 +3,9 @@
 
 repl link: https://replit.com/@SHANAHENRY1/Flask-HW?v=1
 
-all routes:
+All routes:
 
 1. Home: https://flask-hw.shanahenry1.repl.co/ 
-2. https://flask-hw.shanahenry1.repl.co/logic
-3. https://flask-hw.shanahenry1.repl.co/puzzles
-4. https://flask-hw.shanahenry1.repl.co/games
+2. Logic Puzzles: https://flask-hw.shanahenry1.repl.co/logic
+3. Math Puzzles: https://flask-hw.shanahenry1.repl.co/puzzles
+4. Two-Player Games: https://flask-hw.shanahenry1.repl.co/games
