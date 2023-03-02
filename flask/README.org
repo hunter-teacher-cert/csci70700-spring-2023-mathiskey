@@ -1,5 +1,5 @@
 ##Shana Elizabeth Henry
-##Flask #2 (which still has #1 HW
+##Flask #2 (which still has #1 HW)
 
 repl link: https://replit.com/@SHANAHENRY1/Flask-HW?v=1
 
@@ -9,5 +9,5 @@ All routes:
 2. Logic Puzzles: https://flask-hw.shanahenry1.repl.co/logic
 3. Math Puzzles: https://flask-hw.shanahenry1.repl.co/puzzles
 4. Two-Player Games: https://flask-hw.shanahenry1.repl.co/games
-5. Login: https://flask-hw.shanahenry1.repl.co/login
-6. Success: https://flask-hw.shanahenry1.repl.co/success
+5. Student Favorite List: https://flask-hw.shanahenry1.repl.co/game_list
+
