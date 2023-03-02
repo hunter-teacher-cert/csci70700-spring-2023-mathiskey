@@ -10,4 +10,4 @@ All routes:
 3. Math Puzzles: https://flask-hw.shanahenry1.repl.co/puzzles
 4. Two-Player Games: https://flask-hw.shanahenry1.repl.co/games
 5. Login: https://flask-hw.shanahenry1.repl.co/login
-6. Success: Login: https://flask-hw.shanahenry1.repl.co/success
+6. Success: https://flask-hw.shanahenry1.repl.co/success
