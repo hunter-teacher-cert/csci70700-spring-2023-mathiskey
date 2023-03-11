@@ -9,8 +9,8 @@ _start:   ;tell linker entry point
     
     ; add the data and store to register A
 	add eax, ebx
-	mov ebx, [num3] ; third num
-	add eax, ebx
+	mov ebx, [num3] ; third num being stored to Register B
+	add eax, ebx ; adding the previous sum which is stored in Register A to the third num which is stored in Register B
 	add eax, '0' ; converts from num to ASCII value of number
 	
 	mov [result], eax
